@@ -1,0 +1,16 @@
+C:\Users\cjcut\Desktop\FP\FP\FP\bin\Debug\FP.exe.config
+C:\Users\cjcut\Desktop\FP\FP\FP\bin\Debug\FP.exe
+C:\Users\cjcut\Desktop\FP\FP\FP\bin\Debug\FP.pdb
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.csprojAssemblyReference.cache
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\MainWindow.g.cs
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\App.g.cs
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP_MarkupCompile.cache
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP_MarkupCompile.lref
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\MainWindow.baml
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.g.resources
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.Properties.Resources.resources
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.csproj.GenerateResource.cache
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.csproj.CoreCompileInputs.cache
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.exe
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.pdb
+C:\Users\cjcut\Desktop\FP\FP\FP\obj\Debug\FP.csproj.CopyComplete
